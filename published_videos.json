@@ -78,5 +78,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-693c45da-60dd-4374-ac94-302fa8395c42.mp4",
+        "metadata": {
+            "title": "Wander Often, Wonder Always",
+            "description": "The best travel memories aren't the photos \u2014 they're the feelings. The laughter, the sunsets, the people you meet along the way. Collect experiences, not things. This is your reminder to book that trip. Share this with your travel buddy! \ud83c\udf05 #travelmemories #travelinspo #adventure #wanderlust #experiencenotthings #amorasolis",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
