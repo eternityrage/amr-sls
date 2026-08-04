@@ -158,5 +158,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-b43f3120-63ec-4dad-8df1-71f5d3e9cadf.mp4",
+        "metadata": {
+            "title": "Beachside Bliss: Tropical Threads & Island Sunshine \ud83c\udf34\u2728",
+            "description": "Close your eyes for a second\u2014can you feel that warm breeze and hear the ocean calling? In this short video, I\u2019m stepping into a day of Brazilian beach vibes with breezy, sun-kissed style that feels like pure freedom: effortless, confident, and made for golden-hour adventures. From tropical textures to island-ready accessories, every frame is a reminder that living with passion and purpose looks a lot like chasing beautiful moments outdoors. If this took you straight to the shoreline, I want to know\u2014Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! And don\u2019t forget: Follow Amora Solis for daily sunshine and travel inspiration! #brazilianfashion #travel #lifestyle #beachvibes #tropicalstyle #islandliving #sunshine #adventure #confidence #beauty #travelinspo #summer #breezy #amorasolis",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
