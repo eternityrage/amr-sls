@@ -206,5 +206,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-fb9a3173-330e-4867-bb13-fc7f10de8e71.mp4",
+        "metadata": {
+            "title": "Soft Sun, Salt Air & Tropical Confidence \u2014 Amora Solis Beach-Day Escape \u2600\ufe0f\ud83c\udf34",
+            "description": "Today on Amora Solis, I\u2019m taking you straight into that breezy, sun-warmed beach energy where everything feels lighter\u2014like the ocean just pressed \u201creset\u201d on your day. From effortless Brazilian fashion to island-ready styling, this vibe is all about walking into the sunshine with confidence, beauty, and a little sense of adventure in your step. Imagine sun on your shoulders, tropical textures in the air, and the kind of slow, joyful living that makes you feel more like yourself the moment your toes hit the sand. Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! Follow Amora Solis for daily sunshine and travel inspiration! #brazilianfashion #travel #lifestyle #beachvibes #tropicalstyle #islandliving #sunshine #adventure #confidence #beauty #travelinspo #summer #breezy #amorasolis",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": false
+        }
     }
 ]
