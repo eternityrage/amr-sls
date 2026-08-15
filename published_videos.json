@@ -686,5 +686,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-a6b9ced3-4477-4f4b-9331-5beb01999a92.mp4",
+        "metadata": {
+            "title": "Sun-Kissed Streets to Sea-Breeze Soul: A Brazilian Style Escape with Amora Solis",
+            "description": "Close your eyes for a second\u2014can you feel the warm sun on your shoulders and the salt air in your hair? This is your invitation to step into Brazilian fashion and island energy, where tropical style meets confident, purposeful living. From breezy beach looks to travel moments that remind you who you are, this short journey is all about choosing beauty with intention and letting adventure light the way. Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! Follow Amora Solis for daily sunshine and travel inspiration, and let\u2019s keep chasing those \u201cjust one more day\u201d vibes\u2014because life is meant to be lived boldly. #brazilianfashion #travel #lifestyle #beachvibes #tropicalstyle #islandliving #sunshine #adventure #confidence #beauty #travelinspo #summer #breezy #amorasolis",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
