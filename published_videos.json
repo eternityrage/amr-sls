@@ -1102,5 +1102,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-32c294ed-9a1e-4b5c-8e7d-7ba6198c494d.mp4",
+        "metadata": {
+            "title": "Amora Solis: A Breezy Day of Brazilian Style & Island Sun",
+            "description": "Slip into a sun-kissed moment with me\u2014where Brazilian fashion flows like ocean breezes and every step feels like island living. From tropical textures and effortless summer layers to that golden, beach-energy glow, this is the kind of lifestyle that makes you feel confident, beautiful, and ready for adventure. Let the waves do the talking and the sunshine do the inspiring as we chase simple, gorgeous moments that stay with you long after the tide rolls in. Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! Follow Amora Solis for daily sunshine and travel inspiration! #brazilianfashion #travel #lifestyle #beachvibes #tropicalstyle #islandliving #sunshine #adventure #confidence #beauty #travelinspo #summer #breezy #amorasolis",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
