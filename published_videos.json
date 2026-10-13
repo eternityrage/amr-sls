@@ -3534,5 +3534,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-21b2b476-235c-4d33-a1d9-3850b507b071-720p.mp4",
+        "metadata": {
+            "title": "Sunning Through Style: Tropical Beach Vibes in Brazil \u2600\ufe0f\ud83c\udf34 | Amora Solis",
+            "description": "Today I\u2019m taking you on a little escape\u2014where the sun kisses your skin, the ocean sings in the background, and every look feels like vacation magic. From breezy Brazilian fashion to island-living details that make you feel instantly confident, this is the kind of day that turns ordinary streets into sunny runways. Imagine walking barefoot toward the waves, letting tropical style and good energy guide you\u2014because life is meant to be lived with passion and a fearless smile. Where will your heart go next: a hidden beach cove, a colorful coastal city, or an island with nothing but blue skies and sea breeze? Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! Follow Amora Solis for daily sunshine and travel inspiration! #brazilianfashion #travel #lifestyle #beachvibes #tropicalstyle #islandliving #sunshine #adventure #confidence #beauty #travelinspo #summer #breezy #amorasolis",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
