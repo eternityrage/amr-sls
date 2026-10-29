@@ -4302,5 +4302,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-7df81ccb-1e23-4e7d-ac6f-0a5379f9c32d-720p.mp4",
+        "metadata": {
+            "title": "Pack Light, Live Bright: Travel Tips",
+            "description": "There's something magical about the ocean \u2014 the sound of waves, the warmth of the sun, the feeling of sand between your toes. Life slows down by the beach, and suddenly everything feels brighter. Whether you're planning a getaway or dreaming from home, bring a little paradise into your day. Drop a \ud83c\udf0a if you're a beach soul! #beachvibes #travel #sunshine #islandliving #tropicalstyle #amorasolis",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
