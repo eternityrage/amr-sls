@@ -4286,5 +4286,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-3d0d8603-bf2e-48ef-a7f7-89d0d9f3dec9-720p.mp4",
+        "metadata": {
+            "title": "Beach Vibes and Sunshine \u2014 Life in Paradise",
+            "description": "Brazilian style is all about color, confidence, and joy. Flowing fabrics, bold prints, and effortless silhouettes made for warm days and golden sunsets. Dress like every day is a summer day and watch your energy transform. Save these looks for your next trip! \ud83c\udf3a #brazilianfashion #summerstyle #tropicalstyle #beachoutfit #fashioninspo #amorasolis",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
