@@ -4318,5 +4318,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-8b439aca-ffd0-4afa-be3d-eb424b5f61a5-720p.mp4",
+        "metadata": {
+            "title": "Chase the Sunshine: Brazilian Beach Style & Island Dreams \ud83c\udf34\u2728 | Amora Solis",
+            "description": "Close your eyes for a second\u2014can you feel that warm breeze and hear the ocean like it\u2019s calling your name? In today\u2019s journey with Amora Solis, we dive into Brazilian fashion with a sun-kissed, tropical twist: breezy textures, confident silhouettes, and that effortless \u201cisland living\u201d energy that makes you want to step outside and start exploring. This is more than a video\u2014it\u2019s a reminder to live with passion and purpose, to dress like you\u2019re already on vacation, and to chase those beautiful moments wherever the road (or the tide) leads. Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! Follow Amora Solis for daily sunshine and travel inspiration! #brazilianfashion #travel #lifestyle #beachvibes #tropicalstyle #islandliving #sunshine #adventure #confidence #beauty #travelinspo #summer #breezy #amorasolis",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
