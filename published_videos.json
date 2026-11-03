@@ -4510,5 +4510,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-4b3af98e-14b1-4b39-8535-80e6d60780d2-720p.mp4",
+        "metadata": {
+            "title": "Chase the Sunshine: Tropical Brazilian Style & Island Dreams | Amora Solis",
+            "description": "There\u2019s a special kind of magic in Brazil\u2014the way the sunlight hits the ocean, the breeze carries salt air, and your outfit feels like it was made for adventure. In this short video, I take you along for a vibey, sun-soaked moment of tropical style and island living, where every detail\u2014from color to movement\u2014reminds you to step out with confidence and chase what sets your soul on fire. If you\u2019ve been craving that beach-day energy, let this be your sign to book the trip, pack the sandals, and go collect beautiful moments with purpose. Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! And follow Amora Solis for daily sunshine and travel inspiration!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
