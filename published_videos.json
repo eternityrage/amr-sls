@@ -5326,5 +5326,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-b43f3120-63ec-4dad-8df1-71f5d3e9cadf (1).mp4",
+        "metadata": {
+            "title": "Island Sun & Tropical Threads: Brazilian Beach Style with Amora Solis",
+            "description": "Close your eyes for a second\u2014can you feel that warm breeze and hear the soft hush of the ocean? In this short escape, we\u2019re stepping into Brazilian fashion with a breezy, beach-first vibe: sunshine-ready textures, effortless tropical style, and island-living energy that makes you want to linger. Whether you\u2019re dreaming of a hidden shoreline or planning your next getaway, this moment is your reminder to wear confidence, move with purpose, and chase those beautiful \u201cI\u2019m really here\u201d memories. Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! Follow Amora Solis for daily sunshine and travel inspiration!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
