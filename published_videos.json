@@ -5406,5 +5406,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-8f036f61-1e1a-470c-ad50-11e20e41dc52-720p.mp4",
+        "metadata": {
+            "title": "Chase the Sunshine: Tropical Brazilian Style + Beach-Day Adventure | Amora Solis",
+            "description": "Today I want to pull you out of the ordinary and into that warm, salt-air feeling\u2014where the sun hits your skin, the waves keep time, and your outfit feels like confidence. Picture yourself stepping into a breezy Brazilian moment: vibrant colors, effortless tropical style, and an island-living mindset that says yes to adventure and beauty in every direction. Whether you\u2019re planning your next escape or just dreaming with your whole heart, let this be your spark to explore, wander, and chase what lights you up. Like if this took you to the beach! Comment your dream destination below! Share this with your travel buddy! Follow Amora Solis for daily sunshine and travel inspiration!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
